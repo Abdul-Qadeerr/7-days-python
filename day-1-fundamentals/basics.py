@@ -3,14 +3,14 @@ print("=== Python Basics ===\n")
 
 # 1. Variables and Data Types
 print("1. VARIABLES AND DATA TYPES")
-name = "Aarav Sharma"          # string
+name = "Malik Qadeer"          # string
 age = 25                       # integer
 height = 5.9                   # float
 is_indian = True               # boolean
 print(f"Name: {name} (Type: {type(name)})")
 print(f"Age: {age} (Type: {type(age)})")
 print(f"Height: {height} (Type: {type(height)})")
-print(f"Indian: {is_indian} (Type: {type(is_indian)})")
+print(f"Indian: {is_pakistani} (Type: {type(is_pakistani)})")
 print()
 
 # 2. Basic Arithmetic Operations
@@ -29,8 +29,8 @@ print()
 
 # 3. String Operations
 print("3. STRING OPERATIONS")
-first_name = "Raj"
-last_name = "Kumar"
+first_name = "Malik"
+last_name = "Qadeer"
 full_name = first_name + " " + last_name  # Concatenation
 print(f"Full Name: {full_name}")
 print(f"Name in uppercase: {full_name.upper()}")
