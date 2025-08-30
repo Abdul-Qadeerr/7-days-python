@@ -85,7 +85,7 @@ Variables are containers that store data values. In Python, you don’t need to 
 
 ```python
 name = "Qadeer"       # String (Text)
-age = 25              # Integer (Whole number)
+age = 20              # Integer (Whole number)
 height = 5.9          # Float (Decimal number)
 is_student = True     # Boolean (True or False)
 ```
@@ -101,7 +101,7 @@ To display their values, you use the `print()` function:
 
 ```python
 print(name)          # Output: Qadeer
-print(age)           # Output: 25
+print(age)           # Output: 20
 print(height)        # Output: 5.9
 print(is_student)    # Output: True
 ```
@@ -179,7 +179,7 @@ print(f"Hello {name}! You are {age} years old.")
 This will prompt the user to enter their name and age, and then display:
 
 ```plaintext
-Hello Qadeer! You are 25 years old.
+Hello Qadeer! You are 20 years old.
 ```
 
 ---
