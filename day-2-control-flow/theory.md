@@ -1,6 +1,6 @@
 # 🧠 Day 2: Control Flow
 
-Control flow allows you to dictate how your program runs — based on conditions and logic. Python provides several structures for control flow:
+Control flow allows you to dictate how your program runs based on conditions and logic. Python provides several structures for control flow:
 
 ---
 
