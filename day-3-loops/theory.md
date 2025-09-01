@@ -1,4 +1,3 @@
-markdown
 # Day 3: Loops
 
 Loops in Python are used to execute a block of code repeatedly until a certain condition is met. They help automate repetitive tasks and reduce redundancy in programs.  
