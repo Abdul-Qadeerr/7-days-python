@@ -98,6 +98,3 @@ for i in range(1, 6):
 * Control loop behavior using `break`, `continue`, and `pass`.
 * Loops help in automating repetitive tasks and make programs more efficient.
 
-```
-
----
