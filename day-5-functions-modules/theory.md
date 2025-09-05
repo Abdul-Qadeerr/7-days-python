@@ -1,5 +1,3 @@
----
-
 # 📘 Functions & Modules in Python
 
 ## **Functions in Python**
