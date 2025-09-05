@@ -2,7 +2,7 @@
 
 # 📘 Functions & Modules in Python
 
-## 1. **Functions in Python**
+## **Functions in Python**
 
 * **Definition:**
   A function is a reusable block of code that performs a specific task.
