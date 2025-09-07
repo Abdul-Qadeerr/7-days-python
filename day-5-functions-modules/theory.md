@@ -2,7 +2,7 @@
   
 ## **Functions in Python**         
       
-* **Definition:**      
+* **Definition:**       
   A function is a reusable block of code that performs a specific task.
   Instead of writing the same code again and again, we put it inside a function and call it whenever needed.
 
