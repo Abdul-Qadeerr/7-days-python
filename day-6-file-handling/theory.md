@@ -1,4 +1,4 @@
-## **File Handling in Python**
+## 1. **File Handling in Python**
 
 **Introduction**
 
