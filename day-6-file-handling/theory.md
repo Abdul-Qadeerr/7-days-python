@@ -1,6 +1,6 @@
 ---
 
-# **File Handling in Python**
+**File Handling in Python**
 
 **Introduction**
 
