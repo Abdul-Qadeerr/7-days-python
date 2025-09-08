@@ -2,7 +2,7 @@
 
 # **File Handling in Python**
 
-# **Introduction**
+**Introduction**
 
 * File handling means: **working with files stored on a computer (read, write, update, delete)**.
 * Variables exist only during program execution, but files allow **permanent storage of data**.
